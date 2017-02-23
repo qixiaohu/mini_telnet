@@ -1,0 +1,10 @@
+cc:=arm-linux-gcc
+OBJECT:=client.o
+
+client:$(OBJECT)
+	$(cc) $^ -o $@
+client.o:client.c client.h
+	$(cc) -c $<
+.PHONY clean:
+clean:
+	rm *.o

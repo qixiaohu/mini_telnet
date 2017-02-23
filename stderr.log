@@ -1,0 +1,18 @@
+bind: Address already in use
+l: not found
+sh: 1: 1: not found
+sh: 1: ..: Permission denied
+sh: 1: ../: Permission denied
+Vim: 警告: 输出不是到终端(屏幕)
+Vim: 警告: 输入不是来自终端(键盘)
+sh: 1: fun.c: not found
+Vim: 警告: 输出不是到终端(屏幕)
+Vim: 警告: 输入不是来自终端(键盘)
+sh: 1: fun.c: not found
+sh: 1: 1: not found
+sh: 1: 1: not found
+sh: 1: 2: not found
+sh: 1: 3: not found
+sh: 1: 4: not found
+ld：没有输入文件
+sh: 1: /: Permission denied

@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+check_info	./fun.c	/^int check_info(INFO_NODE *inf_head, char *name, char *passwd, int option)$/;"	f
+free_chain	./fun.c	/^int free_chain(INFO_NODE *head)$/;"	f
+get_info	./fun.c	/^int get_info(char *name, char *passwd, char *data)$/;"	f
+get_name	./client.c	/^int get_name(char *name)$/;"	f
+get_passwd	./client.c	/^int get_passwd(char *passwd)$/;"	f
+init_daemon	./main.c	/^int init_daemon()$/;"	f
+insert_node	./fun.c	/^int insert_node(INFO_NODE *head, char *name, char *passwd)$/;"	f
+load_info_lib	./fun.c	/^INFO_NODE *load_info_lib()$/;"	f
+login	./client.c	/^int login()$/;"	f
+main	./client.c	/^int main(int argc,char **argv)$/;"	f
+main	./main.c	/^int main()$/;"	f
+menu	./client.c	/^int menu()$/;"	f
+process_cmd	./server.c	/^int process_cmd(int client_sock, char *buff)$/;"	f
+regist	./client.c	/^int regist()$/;"	f
+save_info	./fun.c	/^int save_info(char *name, char *passwd)$/;"	f
+server	./server.c	/^int server()$/;"	f
+set_disp_mode	./client.c	/^int set_disp_mode(int fd,int option)$/;"	f
+shell_cmd	./client.c	/^int shell_cmd()$/;"	f
+sig_handler	./client.c	/^void sig_handler(int signo)$/;"	f
+user_menu	./client.c	/^int user_menu()$/;"	f
+write_log	./server.c	/^void write_log(char *data)$/;"	f
